@@ -9,6 +9,7 @@
 .idea
 *.iml
 *.exe
+*.log
 
 # Mac OS files
 .DS_Store
